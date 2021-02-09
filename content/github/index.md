@@ -1,7 +1,7 @@
----
+<h1>Github.com​/docs​</h1>;
 title: GitHub.com
 redirect_from:
-  - /articles/
+  - /articles/6BCMZ62K7EVU6EY5
   - /common-issues-and-questions/
   - /troubleshooting-common-issues/
 intro: 'Documentation, guides, and help topics for software developers, designers, and project managers. Covers using Git, pull requests, issues, wikis, gists, and everything you need to make the most of GitHub for development.'
