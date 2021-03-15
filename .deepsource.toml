@@ -1,0 +1,21 @@
+version = 1
+
+[[analyzers]]
+name = "ruby"
+enabled = true
+
+[[analyzers]]
+name = "javascript"
+enabled = true
+
+  [analyzers.meta]
+  environment = [
+    "nodejs",
+    "browser",
+    "jest",
+    "jasmine",
+    "mocha",
+    "jquery",
+    "mongo",
+    "cypress"
+  ]
